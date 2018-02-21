@@ -135,4 +135,4 @@ Desktop.ini
 /apps*/
 
 //Avoiding the .glsl header files
-.glsl
+*.glsl

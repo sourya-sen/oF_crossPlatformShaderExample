@@ -1,4 +1,4 @@
-This is an example to show how to develop cross platform apps that need shader which'll run both on desktop environments as well as on a Raspberry Pi.
+This is an example to show how to develop cross platform apps that need shaders which'll run both on desktop environments as well as on a Raspberry Pi.
 
 The shader folder needs two additional files depending on which platform you are on, details of those are below. They are not tracked by git/not in this repository so make sure you have them before you try to run this code!
 
