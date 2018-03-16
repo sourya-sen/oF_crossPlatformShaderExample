@@ -29,12 +29,12 @@ out vec4 fragColor;
 If you're on the Pi, then the `headerVert` will look like this:
 ````
 precision highp float;
-#define IN varying
+#define IN attribute
 #define OUT
 #define TEXTURE texture2D
 ````
 
-And `headerFrag` should be"
+And `headerFrag` should be:
 ````
 precision highp float;
 #define IN varying
