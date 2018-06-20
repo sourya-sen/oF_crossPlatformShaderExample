@@ -1,6 +1,8 @@
 This is an example to show how to develop cross platform apps that need shaders which'll run both on desktop environments as well as on a Raspberry Pi.
 
-The shader folder needs two additional files depending on which platform you are on, details of those are below. They are not tracked by git/not in this repository so make sure you have them before you try to run this code!
+**The shader folder needs two additional files depending on which platform you are on, details of those are below. They are not tracked by git/not in this repository so make sure you have them before you try to run this code!**
+
+You can also grab those from [here](https://github.com/sourya-sen/rPi_synth/tree/master/Resources/shaderHeaders).
 
 Make two files, one called `headerFrag.glsl` and another called `headerVert.glsl`.
 
